@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\snakers.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\snakers.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\snakersEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\snakers">
+      <UniqueIdentifier>{BF8C13A6-15E7-3CAE-8A7F-FC251FFA4916}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\snakers\Snake.cpp">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\snakers\Snake.h">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\snakers\SnakeController.cpp">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\snakers\SnakeController.h">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\snakers\snakers.Build.cs">
+      <Filter>Source\snakers</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\snakers\snakers.cpp">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\snakers\snakers.h">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

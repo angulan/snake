@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Source\\snakers\\snakers.Build.cs",
+		"C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Source\\snakers.Target.cs",
+		"C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Source\\snakersEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
