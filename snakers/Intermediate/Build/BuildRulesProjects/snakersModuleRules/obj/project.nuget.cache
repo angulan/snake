@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dz9Eca+AyLU=",
+  "dgSpecHash": "g5BRv7gIBoc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\SnakeGAME\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AntonLanning\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\AntonLanning\\.nuget\\packages\\blake3\\1.1.0\\blake3.1.1.0.nupkg.sha512",

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-snakers-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\snakersEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\ATailActor.gen.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\GameData.gen.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\Snake.gen.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\SnakeController.gen.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\snakers.init.gen.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\ATailActor.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\Snake.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\snakers.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\GameData.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\SnakeController.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\PerModuleInline.gen.cpp.obj"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\Default.rc2.res"
+/OUT:"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\snakers\UnrealEditor-snakers-Win64-DebugGame.lib"

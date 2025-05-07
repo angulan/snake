@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = snakersModuleRules
-build_property.ProjectDir = C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\BuildRulesProjects\snakersModuleRules\
+build_property.ProjectDir = C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\BuildRulesProjects\snakersModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

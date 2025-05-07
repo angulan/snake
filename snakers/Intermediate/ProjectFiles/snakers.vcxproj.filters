@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\snakers.sln.DotSettings.user" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -30,6 +31,12 @@
     <Filter Include="Source\snakers">
       <UniqueIdentifier>{BF8C13A6-15E7-3CAE-8A7F-FC251FFA4916}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\snakers\ATailActor.cpp">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\snakers\ATailActor.h">
+      <Filter>Source\snakers</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\snakers\Snake.cpp">
       <Filter>Source\snakers</Filter>
     </ClCompile>
@@ -50,6 +57,18 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\snakers\snakers.h">
       <Filter>Source\snakers</Filter>
+    </ClCompile>
+    <Filter Include="Source\snakers\Private">
+      <UniqueIdentifier>{CB994407-A783-3015-85D7-ED9C00C1B1F7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\snakers\Private\GameData.cpp">
+      <Filter>Source\snakers\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\snakers\Public">
+      <UniqueIdentifier>{A5B749E1-C894-3144-8AD4-D5F1E6431699}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\snakers\Public\GameData.h">
+      <Filter>Source\snakers\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

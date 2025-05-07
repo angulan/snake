@@ -1,12 +1,12 @@
-"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\UnrealEditor\Inc\snakers\UHT\SnakeController.gen.cpp"
-/FI"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\snakersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\Definitions.snakers.h"
-/Yu"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\snakersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\snakersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\SnakeController.gen.cpp.obj"
-/experimental:log "C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\SnakeController.gen.cpp.sarif"
-/sourceDependencies "C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\SnakeController.gen.cpp.dep.json"
-@"C:\Users\AntonLanning\Documents\Unreal Projects\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\snakers.Shared.rsp"
+"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\UnrealEditor\Inc\snakers\UHT\SnakeController.gen.cpp"
+/FI"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\snakersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\Definitions.snakers.h"
+/Yu"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\snakersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\snakersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\SnakeController.gen.cpp.obj"
+/experimental:log "C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\SnakeController.gen.cpp.sarif"
+/sourceDependencies "C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\SnakeController.gen.cpp.dep.json"
+@"C:\Users\AntonLanning\Documents\Unreal Projects\SnakeGAME\snakers\Intermediate\Build\Win64\x64\UnrealEditor\Development\snakers\snakers.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

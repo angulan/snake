@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\source\\snakers\\snakers.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\snakerseditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\snakers\\definitions.snakers.h",
+            "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\source\\snakers\\snakers.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

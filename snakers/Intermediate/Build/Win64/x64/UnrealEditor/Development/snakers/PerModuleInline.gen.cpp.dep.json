@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\antonlanning\\documents\\unreal projects\\snakers\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\snakers\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\snakers\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\antonlanning\\documents\\unreal projects\\snakers\\intermediate\\build\\win64\\x64\\snakerseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\snakerseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\antonlanning\\documents\\unreal projects\\snakers\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\snakers\\definitions.snakers.h",
+            "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\snakers\\definitions.snakers.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],

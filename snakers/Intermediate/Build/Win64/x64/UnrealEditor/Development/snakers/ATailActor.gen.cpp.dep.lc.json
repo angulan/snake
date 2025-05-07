@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\unrealeditor\\inc\\snakers\\uht\\atailactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\snakerseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\snakers\\definitions.snakers.h",
+            "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\source\\snakers\\atailactor.h",
+            "c:\\users\\antonlanning\\documents\\unreal projects\\snakegame\\snakers\\intermediate\\build\\win64\\unrealeditor\\inc\\snakers\\uht\\atailactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

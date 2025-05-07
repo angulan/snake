@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj": {}
+    "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\SnakeGAME\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1105,14 +1105,14 @@
         }
       }
     },
-    "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj": {
+    "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\SnakeGAME\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\SnakeGAME\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj",
         "projectName": "snakersModuleRules",
-        "projectPath": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj",
+        "projectPath": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\SnakeGAME\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\snakersModuleRules.csproj",
         "packagesPath": "C:\\Users\\AntonLanning\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\AntonLanning\\Documents\\Unreal Projects\\SnakeGAME\\snakers\\Intermediate\\Build\\BuildRulesProjects\\snakersModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AntonLanning\\AppData\\Roaming\\NuGet\\NuGet.Config",
